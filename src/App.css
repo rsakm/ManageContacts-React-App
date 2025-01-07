@@ -1,0 +1,71 @@
+
+
+.header{
+  font-weight: 800;
+  font-size: larger;
+  border: 2px solid ;
+  background-color: #8e0625;
+  color: white;
+  text-align: center;
+  padding: 4px;
+}
+
+.formHeader{
+  margin-left: 12px;
+
+}
+
+.add-contact{
+  font-size: medium;
+  font-weight: 500;
+  font-family: fantasy;
+  margin-left: 12px;
+  margin-top: 12px;
+}
+
+input{
+  
+  margin-bottom: 8px;
+  /* margin-left: 4px; */
+
+}
+
+.btn{
+  border-color: cadetblue;
+  color: #8e0625;
+  /* margin-top: 8px; */
+}
+
+.contactsHeader{
+  font-size: medium;
+  font-weight: 500;
+  font-family: system-ui;
+  margin-left: 12px;
+  margin-top: 20px;
+}
+form{
+  margin-top: 4px;
+}
+
+.contacts-Header{
+  font-size: larger;
+  font-weight: 800;
+  margin-top: 24px;
+  margin-left: 12px;
+  margin-bottom: 4px;
+}
+
+.contacts{
+  display: flex;
+  justify-content: space-between;
+  border: 2px solid;
+  background: #fdeff2;
+  margin-bottom: 2px;
+  margin-left: 12px;
+  margin-right: 5px;
+
+}
+
+.email{
+  font-size: x-small;
+}
